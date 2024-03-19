@@ -6,6 +6,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
+Welcome. My first name is Dinh-Son, my family name is Vu. I am a lecturer in Robotics and Mechatronics at RMIT Vietnam. 
+You will find information about my professional career. Please contact me by [email](dinh-son.vu@rmit.edu.vn) if our research interests are aligned. 
+ 
 Please write an introduction about yourself here. You can create hyperlink like this to your [YouTube channel](https://www.youtube.com/@AcademiaRobot). 
 You like parallel mechanisms, robotic arm. You work with Jaco robot, reinforcement learning. You work in different Universities: RMIT Vietnam, AUM Kuwait, AAU Aalborg, ULaval Canada, Cranfield UK, UTC France. 
 
