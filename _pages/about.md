@@ -12,7 +12,7 @@ I obtained my Engineering degree in France from the [University of Technology of
 My MSc in [Cranfield University](https://www.cranfield.ac.uk/) (2011) focused on autonomous vehicle dynamics and control (AVDC).
 I pursued a PhD in robotics at [Laval University](https://www.ulaval.ca/en) (2012-2017) on a mechanical system for lower limb rehabilitation. 
 My postdoctoral experience in [Aalborg University](https://www.en.aau.dk/) (2017-2019) dealt with the development of upper limb exoskeleton for the elderly population. 
-From 2019 to 2022, I had a position at the [American University of the Middle East](https://aum.edu.kw/) (Kuwait) where I developed courses related to mechatronics and fundamentals of mechanical engineering. \\
+From 2019 to 2022, I had a position at the [American University of the Middle East](https://aum.edu.kw/) (Kuwait) where I developed courses related to mechatronics and fundamentals of mechanical engineering.
 
 Please contact me by [email](dinh-son.vu@rmit.edu.vn) if our research interests are aligned. 
 
