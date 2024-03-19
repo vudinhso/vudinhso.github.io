@@ -21,7 +21,7 @@ repository               : "vudinhso/vudinhso.github.io" # https://github.com/vu
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profileDinhSonVu.jpg"
   name             : "Dinh-Son Vu"
   pronouns         : # example: "she/her"  
   bio              : "Lecturer in Robotics and Mechatronics"
