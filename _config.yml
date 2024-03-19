@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Dinh-Son Vu - Home page "
+title                    : "Home page "
 title_separator          : "-"
 name                     : &name "Dinh-Son Vu"
 description              : &description "personal description"
