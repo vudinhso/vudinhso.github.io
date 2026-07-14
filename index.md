@@ -2,8 +2,12 @@
 layout: default
 ---
 
-# Vu Dinh So
-**Lecturer** · Ho Chi Minh City · [GitHub](https://github.com/vudinhso) · [LinkedIn](#) · so@email.com
+# First name: Dinh-Son
+# Surname: Vu
+**Lecturer** 
+Robotics and Mechatronics Program
+School of Science, Engineering, and Technology
+RMIT Vietnam· Ho Chi Minh City · [GitHub](https://github.com/vudinhso) · [LinkedIn](#) · so@email.com
 
 ---
 
