@@ -4,7 +4,7 @@ layout: default
 
 <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:1rem;">
   <div>
-    <h1 style="margin-bottom:0.25rem;">Dinh-Son Vu</h1>
+    <!-- <h1 style="margin-bottom:0.25rem;">Dinh-Son Vu</h1> -->
     <p style="margin:0;">
         Lecturer<br>
         Robotics and Mechatronics Program<br>
@@ -18,7 +18,7 @@ layout: default
     </p>
   </div>
   <div style="flex-shrink:0; margin-left:1.5rem;">
-    <img src="Figures/Profile.jpg" alt="Vu Dinh Son" width="150" style="border-radius:50%;">
+    <img src="Figures/Profile.jpg" alt="Vu Dinh Son" width="200" style="border-radius:50%;">
   </div>
 </div>
 
