@@ -58,16 +58,16 @@ Dinh-Son has taught three years as an Assistant Professor in AUM, Kuwait in Mech
 
 <p style="text-align: justify;">
 Drive engineering design coursework utilizing ROS2 and facilitate practical, industry-standard programming with collaborative ABB GoFa robots.
-Embedded systems and control theory, physical implementation of PID controllers for encoder-equipped DC motors. Course: Engineering Mechanics, Control Systems, Engineering Design. Skill: MATLAB, ROS2, VSCode, Ubuntu
+Embedded systems and control theory, physical implementation of PID controllers for encoder-equipped DC motors.
 </p>
+- Course: Engineering Mechanics, Control Systems, Engineering Design
+- Skill: MATLAB, ROS2, VSCode, Ubuntu
 
 **Assistant Professor** | **2019 – 2022** | **American University of the Middle East (AUM), Kuwait**
 
 <p style="text-align: justify;">
 Preparation and moderation for several courses including Mechatronics, Dynamics, Statics, and Measurement Systems. Laboratory improvement for the Mechatronics course: PLC, 3-DOFs robot, microcontroller, and basic electronics implementation. Workshop organization: initiation to machine learning, and to robotic kinematics based on screw theory. 
 </p>
-- Course: Mechatronics
-- Skill: MATLAB, ROS2, VSCode, Ubuntu
 
 
 **Post-doctoral Fellow** | **2017 – 2019** | **Aalborg University, Denmark**
@@ -153,11 +153,9 @@ Design and control of Robotic Swarm
 
 ## Certification
 
-SOLIDWORKS Additive Manufacturing Associate | 2025
-
-Coursera | University of Alberta | Fundamentals of Reinforcement Learning | 2020
-
-Coursera | deeplearning.ai | Deep Learning | 2020
+SOLIDWORKS | Additive Manufacturing Associate | 2025
+University of Alberta | Fundamentals of Reinforcement Learning | 2020
+deeplearning.ai | Deep Learning | 2020
 
 ## Research
 
