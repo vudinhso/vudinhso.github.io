@@ -2,20 +2,25 @@
 layout: default
 ---
 
-<img src="Figures/Profile.jpg" alt="Vu Dinh Son" width="150" style="border-radius: 50%;">
-
-# Dinh-Son Vu
-
-**Lecturer**  
-Robotics and Mechatronics Program  
-School of Science, Engineering, and Technology  
-RMIT Vietnam, Ho Chi Minh City  
-[GitHub](https://github.com/vudinhso) · 
-[LinkedIn](https://www.linkedin.com/in/dinh-son-vu/) · 
-[Scholar](https://scholar.google.com/citations?user=fKtqrDkAAAAJ&hl=en&oi=ao) · 
-[Orcid](https://orcid.org/0000-0002-0567-6419) · 
-[Email](dinh-son.vu@rmit.edu.vn) · 
-
+<div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:1rem;">
+  <div>
+    <h1 style="margin-bottom:0.25rem;">Dinh-Son Vu</h1>
+    <p style="margin:0;">
+        Lecturer<br>
+        Robotics and Mechatronics Program<br>
+        School of Science, Engineering, and Technology<br>
+        RMIT Vietnam, Ho Chi Minh City<br>
+        Email: <a href="mailto:dinh-son.vu@rmit.edu.vn">dinh-son.vu@rmit.edu.vn</a><br>
+        <a href="https://github.com/vudinhso">GitHub</a> · 
+        <a href="https://www.linkedin.com/in/dinh-son-vu/">LinkedIn</a> · 
+        <a href="https://scholar.google.com/citations?user=fKtqrDkAAAAJ&hl=en&oi=ao">Scholar</a> · 
+        <a href="https://orcid.org/0000-0002-0567-6419">Orcid</a> · 
+    </p>
+  </div>
+  <div style="flex-shrink:0; margin-left:1.5rem;">
+    <img src="figures/profile.jpg" alt="Vu Dinh Son" width="150" style="border-radius:50%;">
+  </div>
+</div>
 
 
 ---
