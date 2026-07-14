@@ -27,37 +27,48 @@ layout: default
 ## Summary
 
 <p style="text-align: justify;">
-Short paragraph about yourself — who you are, what you work on, what you care about. 2–3 sentences is enough. Short paragraph about yourself — who you are, what you work on, what you care about. 2–3 sentences is enough. Short paragraph about yourself — who you are, what you work on, what you care about. 2–3 sentences is enough. Short paragraph about yourself — who you are, what you work on, what you care about. 2–3 sentences is enough. Short paragraph about yourself — who you are, what you work on, what you care about. 2–3 sentences is enough.
+Short paragraph about yourself — who you are, what you work on, what you care about. 2–3 sentences is enough. Short paragraph about yourself — who you are, what you work on, what you care about. 2–3 sentences is enough. Short paragraph about yourself — who you are, what you work on, what you care about. 2–3 sentences is enough. 
 </p>
 
 ---
-
 ## Experience
 
-**Job Title** — Company Name  
-*2022 – Present*
+**Lecturer** · 
+*2022 – Present*  
+RMIT Vietnam
 
-What you did and the impact you had. Keep it to 2–3 sentences. Numbers and results are great if you have them.
+<p style="text-align: justify;">
+Short paragraph about yourself — who you are, what you work on, what you care about. 2–3 sentences is enough. Short paragraph about yourself — who you are, what you work on, what you care about. 2–3 sentences is enough.
+</p>
 
 - Technology or tool you used
 - Another key skill or achievement
 
 ---
 
-**Job Title** — Previous Company  
-*2019 – 2022*
+**Assistant Professor** · 
+*2019 – 2022*  
+American University of the Middle East (AUM), Kuwait
 
-Description of this role. What did you build or improve?
+<p style="text-align: justify;">
+Short paragraph about yourself — who you are, what you work on, what you care about. 2–3 sentences is enough. Short paragraph about yourself — who you are, what you work on, what you care about. 2–3 sentences is enough.
+</p>
 
 - Go, Kubernetes, PostgreSQL
 - Something else notable
 
 ---
 
-**Junior Developer** — First Company  
-*2017 – 2019*
+**Post-doctoral Fellow** · 
+*2017 – 2019*  
+Aalborg University, Denmark
 
-Early career role description.
+<p style="text-align: justify;">
+Short paragraph about yourself — who you are, what you work on, what you care about. 2–3 sentences is enough. Short paragraph about yourself — who you are, what you work on, what you care about. 2–3 sentences is enough.
+</p>
+
+- Go, Kubernetes, PostgreSQL
+- Something else notable
 
 ---
 
