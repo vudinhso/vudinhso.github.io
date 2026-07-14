@@ -97,20 +97,20 @@ Short paragraph about yourself — who you are, what you work on, what you care 
 
 ## Grants
 
-**Industry Seed Fund 2025**  | $50000 |  
+**Industry Seed Fund 2025**  | $50000  
 Byron Anthony Mason, Minh Quang Tran, with the company 
 <a href="https://esg.orlar.com/">Orlar</a>  
 Plant Stress Monitoring and Mitigation for Sustainable Indoor Agriculture in Vietnam  
 
-**Vietnam Research Grant 2025**  | $7600 |  
+**Vietnam Research Grant 2025**  | $7600  
 Byron Anthony Mason, Minh Quang Tran  
 Engineering a Sustainable Mobility Solution through AI-Optimized Electric Vehicle Integration and Big Data Analytics for Reduced Air Pollution in Vietnam
 
-**Vietnam Research Grant 2025**  | $7600 |  
+**Vietnam Research Grant 2025**  | $7600  
 Hung Pham Viet  
 Integrating Language Processing for Waste Sorting Robot Control
 
-**Scholarship of Teaching and Learning 2025**  | $3000 |  
+**Scholarship of Teaching and Learning 2025**  | $3000 
 Thu Hyunh, Jeff Nijsse, Katrina Phillips  
 Gendered Task Division in Group Work
 
@@ -129,7 +129,7 @@ Weed, Pest and Spray Decision Support in Canal-Based Orchards: Design of the Dig
 **Capstone Project 2025**   
 Lyndal Hugo, Leo Monnier, with the company 
 <a href="https://esg.orlar.com/">Orlar</a>  
-Automated Wedges Collection.  
+Automated Wedges Collection and Plant Disease Detection System 
 
 
 ---
