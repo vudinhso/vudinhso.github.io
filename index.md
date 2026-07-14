@@ -3,7 +3,7 @@ layout: default
 ---
 
 # Vu Dinh So
-**Software Engineer** · Ho Chi Minh City · [GitHub](https://github.com/vudinhso) · [LinkedIn](#) · so@email.com
+**Lecturer** · Ho Chi Minh City · [GitHub](https://github.com/vudinhso) · [LinkedIn](#) · so@email.com
 
 ---
 
