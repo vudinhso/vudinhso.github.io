@@ -97,29 +97,40 @@ Short paragraph about yourself — who you are, what you work on, what you care 
 
 ## Grants
 
-**Vietnam Research Grant 2025** · [GitHub](#)  
-What this project does and why you built it. One or two sentences.  
-*Go · Kubernetes · gRPC*
+**Industry Seed Fund 2025**  | $50000 |  
+Byron Anthony Mason, Minh Quang Tran, with the company 
+<a href="https://esg.orlar.com/">Orlar</a>  
+Plant Stress Monitoring and Mitigation for Sustainable Indoor Agriculture in Vietnam  
 
+**Vietnam Research Grant 2025**  | $7600 |  
+Byron Anthony Mason, Minh Quang Tran  
+Engineering a Sustainable Mobility Solution through AI-Optimized Electric Vehicle Integration and Big Data Analytics for Reduced Air Pollution in Vietnam
 
+**Vietnam Research Grant 2025**  | $7600 |  
+Hung Pham Viet  
+Integrating Language Processing for Waste Sorting Robot Control
 
-**Project Beta** · [Live](#)  
-Another project description. What problem does it solve?  
-*Python · Machine Learning*
+**Scholarship of Teaching and Learning 2025**  | $3000 |  
+Thu Hyunh, Jeff Nijsse, Katrina Phillips  
+Gendered Task Division in Group Work
 
 ---
 
 ## Projects
 
-**Project Alpha** · [GitHub](#)  
-What this project does and why you built it. One or two sentences.  
-*Go · Kubernetes · gRPC*
+**Capstone Project 2026**   
+Jereon Roomer, with the company 
+<a href="https://thefruitrepublic.com/">The Fruit Republic</a> and
+<a href="https://hyves.tech/">Hyves Tech</a>  
+Smart Field Robot for Lime Farming in Bến Lức (Long An).  
+Weed, Pest and Spray Decision Support in Canal-Based Orchards: Design of the Digital Twin  
 
----
 
-**Project Beta** · [Live](#)  
-Another project description. What problem does it solve?  
-*Python · Machine Learning*
+**Capstone Project 2025**   
+Lyndal Hugo, Leo Monnier, with the company 
+<a href="https://esg.orlar.com/">Orlar</a>  
+Automated Wedges Collection.  
+
 
 ---
 
