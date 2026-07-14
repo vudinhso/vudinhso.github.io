@@ -57,41 +57,39 @@ Dinh-Son has taught three years as an Assistant Professor in AUM, Kuwait in Mech
 **Lecturer** | **2022 – Present** | **RMIT Vietnam**
 
 <p style="text-align: justify;">
-Short paragraph about yourself — who you are, what you work on, what you care about. 2–3 sentences is enough. Short paragraph about yourself — who you are, what you work on, what you care about. 2–3 sentences is enough.
+Drive engineering design coursework utilizing ROS2 and facilitate practical, industry-standard programming with collaborative ABB GoFa robots.
+Embedded systems and control theory, physical implementation of PID controllers for encoder-equipped DC motors. Course: Engineering Mechanics, Control Systems, Engineering Design. Skill: MATLAB, ROS2, VSCode, Ubuntu
 </p>
-
-- Technology or tool you used
-- Another key skill or achievement
-
 
 **Assistant Professor** | **2019 – 2022** | **American University of the Middle East (AUM), Kuwait**
 
 <p style="text-align: justify;">
-Short paragraph about yourself — who you are, what you work on, what you care about. 2–3 sentences is enough. Short paragraph about yourself — who you are, what you work on, what you care about. 2–3 sentences is enough.
+Preparation and moderation for several courses including Mechatronics, Dynamics, Statics, and Measurement Systems. Laboratory improvement for the Mechatronics course: PLC, 3-DOFs robot, microcontroller, and basic electronics implementation. Workshop organization: initiation to machine learning, and to robotic kinematics based on screw theory. 
 </p>
-
-- Go, Kubernetes, PostgreSQL
-- Something else notable
+- Course: Mechatronics
+- Skill: MATLAB, ROS2, VSCode, Ubuntu
 
 
 **Post-doctoral Fellow** | **2017 – 2019** | **Aalborg University, Denmark**
 
 <p style="text-align: justify;">
-Short paragraph about yourself — who you are, what you work on, what you care about. 2–3 sentences is enough. Short paragraph about yourself — who you are, what you work on, what you care about. 2–3 sentences is enough.
+<a href="https://www.exo-aider.dk/">Project Exo-Aider</a> Project Exo-Aider, Denmark: Development of assistive exoskeletons for wheelchair users and elderly people. Intuitive human robot interaction with collaboration with therapist for
+the control of a robotic arm mounted on a wheelchair. Mechatronic team manager: deliverable preparation, tasks assignment, and product development based on an Agile management. Teaching assistant of industrial robotic projects with Problem-based Learning (PBL). 
 </p>
 
-- Go, Kubernetes, PostgreSQL
-- Something else notable
+**PhD Candidate** | **2012 – 2017** | **Laval University, Canada**
+
+<p style="text-align: justify;">
+Design and manufacturing of the locomotion interface, simulation of a virtual environment, stability analysis of the mechanism. Haptic and physical human-robot interaction: force and position control of the interface in the virtual environment. JACO Robotic Arm user: design of an intuitive control to facilitate the use of the device. 
+</p>
 
 
 **Automotive Engineer** | **2010 – 2012** | **Delphi, France**
 
 <p style="text-align: justify;">
-Short paragraph about yourself — who you are, what you work on, what you care about. 2–3 sentences is enough. Short paragraph about yourself — who you are, what you work on, what you care about. 2–3 sentences is enough.
+Simulink expert: design of the ECU control strategy relative to the customer’s specification. Validation of the ECU with unit testing and on car prototypes. Respect of the 5S workplace organization method
 </p>
 
-- Go, Kubernetes, PostgreSQL
-- Something else notable
 
 ---
 
@@ -150,6 +148,16 @@ Pick and Place Application with ABB IRB 920T robot
 
 **Highschool Robotic Workshops 2022 – 2026**   
 Design and control of Robotic Swarm
+
+---
+
+## Certification
+
+SOLIDWORKS Additive Manufacturing Associate | 2025
+
+Coursera | University of Alberta | Fundamentals of Reinforcement Learning | 2020
+
+Coursera | deeplearning.ai | Deep Learning | 2020
 
 ## Research
 
