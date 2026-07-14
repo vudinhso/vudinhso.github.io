@@ -2,12 +2,21 @@
 layout: default
 ---
 
-# First name: Dinh-Son
-# Surname: Vu
-**Lecturer** 
-Robotics and Mechatronics Program
-School of Science, Engineering, and Technology
-RMIT Vietnam· Ho Chi Minh City · [GitHub](https://github.com/vudinhso) · [LinkedIn](#) · so@email.com
+<img src="Figures/Profile.jpg" alt="Vu Dinh Son" width="150" style="border-radius: 50%;">
+
+# Dinh-Son Vu
+
+**Lecturer**  
+Robotics and Mechatronics Program  
+School of Science, Engineering, and Technology  
+RMIT Vietnam, Ho Chi Minh City  
+[GitHub](https://github.com/vudinhso) · 
+[LinkedIn](https://www.linkedin.com/in/dinh-son-vu/) · 
+[Scholar](https://scholar.google.com/citations?user=fKtqrDkAAAAJ&hl=en&oi=ao) · 
+[Orcid](https://orcid.org/0000-0002-0567-6419) · 
+[Email](dinh-son.vu@rmit.edu.vn) · 
+
+
 
 ---
 
