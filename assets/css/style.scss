@@ -1,0 +1,11 @@
+---
+---
+@import "{{ site.theme }}";
+
+.markdown-body hr {
+  margin: 2rem 0 1.5rem;   /* more space below the divider, before the heading */
+}
+
+.markdown-body h2 {
+  border-bottom: none;
+}

@@ -24,10 +24,11 @@ layout: default
 
 
 ---
+## Summary
 
-## About
-
-Short paragraph about yourself — who you are, what you work on, what you care about. 2–3 sentences is enough.
+<p style="text-align: justify;">
+Short paragraph about yourself — who you are, what you work on, what you care about. 2–3 sentences is enough. Short paragraph about yourself — who you are, what you work on, what you care about. 2–3 sentences is enough. Short paragraph about yourself — who you are, what you work on, what you care about. 2–3 sentences is enough. Short paragraph about yourself — who you are, what you work on, what you care about. 2–3 sentences is enough. Short paragraph about yourself — who you are, what you work on, what you care about. 2–3 sentences is enough.
+</p>
 
 ---
 
