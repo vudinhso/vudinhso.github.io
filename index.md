@@ -85,7 +85,6 @@ Short paragraph about yourself — who you are, what you work on, what you care 
 
 
 **Automotive Engineer** | 2010 – 2012 | Delphi, France
-
 <p style="text-align: justify;">
 Short paragraph about yourself — who you are, what you work on, what you care about. 2–3 sentences is enough. Short paragraph about yourself — who you are, what you work on, what you care about. 2–3 sentences is enough.
 </p>
@@ -96,6 +95,10 @@ Short paragraph about yourself — who you are, what you work on, what you care 
 ---
 
 ## Grants
+
+**NAWA PROM 2026**  | $2700  
+<a href="https://krim.agh.edu.pl/en/">AGH Krakow, Department of Robotics and Mechatronics</a>  
+Adoption of ROS 2 in classroom: from prototyping to fleet of autonomous ground robots
 
 **Industry Seed Fund 2025**  | $50000  
 Byron Anthony Mason, Minh Quang Tran, with the company 
@@ -110,7 +113,7 @@ Engineering a Sustainable Mobility Solution through AI-Optimized Electric Vehicl
 Hung Pham Viet  
 Integrating Language Processing for Waste Sorting Robot Control
 
-**Scholarship of Teaching and Learning 2025**  | $3000 
+**Scholarship of Teaching and Learning 2025**  | $3000  
 Thu Hyunh, Jeff Nijsse, Katrina Phillips  
 Gendered Task Division in Group Work
 
@@ -131,7 +134,58 @@ Lyndal Hugo, Leo Monnier, with the company
 <a href="https://esg.orlar.com/">Orlar</a>  
 Automated Wedges Collection and Plant Disease Detection System 
 
+**Capstone Project 2024**   
+Building a Drone from the ground up 
 
+**Capstone Project 2023**   
+Truong Dinh Thai, with the company 
+<a href="https://www.abb.com/">ABB</a>  
+Pick and Place Application with ABB IRB 920T robot
+
+**Highschool Robotic Workshops 2022 – 2026**   
+Design and control of Robotic Swarm
+
+## Research
+
+<p style="text-align: justify;">
+T. Trang, H. V. Pham, S. Dinh-Son Vu, T. M. Le, H. M. Tran and S. V. T. Dao, "TrashVLM: Lightweight and Efficiently Fine-Tuned Vision-Language Models for Waste Classification," 2025 International Conference on Advanced Technologies for Communications (ATC), Hanoi, Vietnam, 2025, pp. 1-7, doi: 10.1109/ATC67618.2025.11268574.
+</p>
+
+<p style="text-align: justify;">
+Dinh-Son Vu, M. -T. Vo, A. N. Le Quoc, K. H. Nguyen and T. Q. Tran, "On the Design and Performance of Delta Robot Platform with Compliant Revolute Joint," 2024 13th International Conference on Control, Automation and Information Sciences (ICCAIS), Ho Chi Minh City, Vietnam, 2024, pp. 1-6, doi: 10.1109/ICCAIS63750.2024.10814546. 
+</p>
+
+<p style="text-align: justify;">
+Campeau-Lecours, A., Dinh-Son Vu, Schweitzer, F., and Roy, J. (April 8, 2020). "Alternative Representation of the Shoulder Orientation Based on the Tilt-and-Torsion Angles." ASME. J Biomech Eng. July 2020; 142(7): 074504
+</p>
+
+<p style="text-align: justify;">
+Dinh-Son Vu, Barnett, E., and Gosselin, C. (February 27, 2019). "Experimental Validation of a Three-Degree-of-Freedom Cable-Suspended Parallel Robot for Spatial Translation With Constant Orientation." ASME. J. Mechanisms Robotics. April 2019; 11(2): 024502.
+</p>
+
+<p style="text-align: justify;">
+A. Campeau-Lecours, U. Côté-Allard, Dinh-Son Vu, F. Routhier, B. Gosselin and C. Gosselin, "Intuitive Adaptive Orientation Control for Enhanced Human–Robot Interaction," in IEEE Transactions on Robotics, vol. 35, no. 2, pp. 509-520, April 2019, doi: 10.1109/TRO.2018.2885464.
+</p>
+
+<p style="text-align: justify;">
+Dinh-Son Vu, U. C. Allard, C. Gosselin, F. Routhier, B. Gosselin and A. Campeau-Lecours, "Intuitive adaptive orientation control of assistive robots for people living with upper limb disabilities," 2017 International Conference on Rehabilitation Robotics (ICORR), London, UK, 2017, pp. 795-800, doi: 10.1109/ICORR.2017.8009345. 
+</p>
+
+<p style="text-align: justify;">
+Dinh-Son Vu, Barnett, E., Zaccarin, AM., Gosselin, C. (2018). On the Design of a Three-DOF Cable-Suspended Parallel Robot Based on a Parallelogram Arrangement of the Cables. In: Gosselin, C., Cardou, P., Bruckmann, T., Pott, A. (eds) Cable-Driven Parallel Robots. Mechanisms and Machine Science, vol 53. Springer, Cham. doi: 10.1007/978-3-319-61431-1_27
+</p>
+
+<p style="text-align: justify;">
+Dinh-Son Vu, J. Kövecses and C. Gosselin, "Trajectory planning and control of a belt-driven locomotion interface for flat terrain walking and stair climbing," 2017 IEEE World Haptics Conference (WHC), Munich, Germany, 2017, pp. 189-194, doi: 10.1109/WHC.2017.7989899
+</p>
+
+<p style="text-align: justify;">
+Dinh-Son Vu, S. Foucault, C. Gosselin and J. Kövecses, "Design of a locomotion interface for gait simulation based on belt-driven parallel mechanisms," 2015 IEEE International Conference on Robotics and Automation (ICRA), Seattle, WA, USA, 2015, pp. 1581-1586, doi: 10.1109/ICRA.2015.7139399
+</p>
+
+
+
+<!-- 
 ---
 
 ## Skills
@@ -151,4 +205,4 @@ Automated Wedges Collection and Plant Disease Detection System
 
 - [Project Alpha — technical notes](docs/project-alpha)
 - [API reference](docs/api-reference)
-- [Setup guide](docs/setup)
+- [Setup guide](docs/setup) -->
