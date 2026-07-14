@@ -54,7 +54,7 @@ Dinh-Son has taught three years as an Assistant Professor in AUM, Kuwait in Mech
 ---
 ## Experience
 
-**Lecturer | 2022 – Present | RMIT Vietnam**
+**Lecturer** | **2022 – Present** | **RMIT Vietnam**
 
 <p style="text-align: justify;">
 Short paragraph about yourself — who you are, what you work on, what you care about. 2–3 sentences is enough. Short paragraph about yourself — who you are, what you work on, what you care about. 2–3 sentences is enough.
@@ -64,7 +64,7 @@ Short paragraph about yourself — who you are, what you work on, what you care 
 - Another key skill or achievement
 
 
-**Assistant Professor | 2019 – 2022 | American University of the Middle East (AUM), Kuwait**
+**Assistant Professor** | **2019 – 2022** | **American University of the Middle East (AUM), Kuwait**
 
 <p style="text-align: justify;">
 Short paragraph about yourself — who you are, what you work on, what you care about. 2–3 sentences is enough. Short paragraph about yourself — who you are, what you work on, what you care about. 2–3 sentences is enough.
@@ -74,7 +74,7 @@ Short paragraph about yourself — who you are, what you work on, what you care 
 - Something else notable
 
 
-**Post-doctoral Fellow | 2017 – 2019 | Aalborg University, Denmark**
+**Post-doctoral Fellow** | **2017 – 2019** | **Aalborg University, Denmark**
 
 <p style="text-align: justify;">
 Short paragraph about yourself — who you are, what you work on, what you care about. 2–3 sentences is enough. Short paragraph about yourself — who you are, what you work on, what you care about. 2–3 sentences is enough.
@@ -84,7 +84,8 @@ Short paragraph about yourself — who you are, what you work on, what you care 
 - Something else notable
 
 
-**Automotive Engineer | 2010 – 2012 | Delphi, France**
+**Automotive Engineer** | **2010 – 2012** | **Delphi, France**
+
 <p style="text-align: justify;">
 Short paragraph about yourself — who you are, what you work on, what you care about. 2–3 sentences is enough. Short paragraph about yourself — who you are, what you work on, what you care about. 2–3 sentences is enough.
 </p>
@@ -96,24 +97,29 @@ Short paragraph about yourself — who you are, what you work on, what you care 
 
 ## Grants
 
-**NAWA PROM 2026 | $2700**  
+**NAWA PROM 2026** | **$2700**  
+
 <a href="https://krim.agh.edu.pl/en/">AGH Krakow, Department of Robotics and Mechatronics</a>  
 Adoption of ROS 2 in classroom: from prototyping to fleet of autonomous ground robots
 
-**Industry Seed Fund 2025 | $50000**  
+**Industry Seed Fund 2025** | **$50000**  
+
 Byron Anthony Mason, Minh Quang Tran, with the company 
 <a href="https://esg.orlar.com/">Orlar</a>  
 Plant Stress Monitoring and Mitigation for Sustainable Indoor Agriculture in Vietnam  
 
-**Vietnam Research Grant 2025 | $7600**  
+**Vietnam Research Grant 2025** | **$7600**  
+
 Byron Anthony Mason, Minh Quang Tran  
 Engineering a Sustainable Mobility Solution through AI-Optimized Electric Vehicle Integration and Big Data Analytics for Reduced Air Pollution in Vietnam
 
-**Vietnam Research Grant 2025 | $7600**  
+**Vietnam Research Grant 2025** | **$7600**  
+
 Hung Pham Viet  
 Integrating Language Processing for Waste Sorting Robot Control
 
-**Scholarship of Teaching and Learning 2025 | $3000**  
+**Scholarship of Teaching and Learning 2025** | **$3000**  
+
 Thu Hyunh, Jeff Nijsse, Katrina Phillips  
 Gendered Task Division in Group Work
 
