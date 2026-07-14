@@ -31,11 +31,25 @@ Short paragraph about yourself — who you are, what you work on, what you care 
 </p>
 
 ---
+
+## Education
+
+**Doctor of Philosophy (PhD), Robotics** — Laval University, Canada · 2017  
+- Design and Control of a Locomotion Interface for Gait Rehabilitation  
+- Thesis obtained with summa cum laude  
+
+**Master of Science (MSc), Aeronautics** — Cranfield University, United Kingdom · 2010  
+<!-- - Autonomous Vehicle Dynamics and Control   -->
+- Autonomous Vehicle waypoint navigation and obstacle avoidance guidance
+
+**Engineering Degree, Mechatronics** — University of Technology of Compiegne, France · 2010  
+- Mechanical Engineering Program
+- Speciality MARS: Mechatronics, Actuators, Robotisation, and Systems
+
+---
 ## Experience
 
-**Lecturer** · 
-*2022 – Present*  
-RMIT Vietnam
+**Lecturer** | 2022 – Present | RMIT Vietnam
 
 <p style="text-align: justify;">
 Short paragraph about yourself — who you are, what you work on, what you care about. 2–3 sentences is enough. Short paragraph about yourself — who you are, what you work on, what you care about. 2–3 sentences is enough.
@@ -46,9 +60,7 @@ Short paragraph about yourself — who you are, what you work on, what you care 
 
 ---
 
-**Assistant Professor** · 
-*2019 – 2022*  
-American University of the Middle East (AUM), Kuwait
+**Assistant Professor** | 2019 – 2022 | American University of the Middle East (AUM), Kuwait
 
 <p style="text-align: justify;">
 Short paragraph about yourself — who you are, what you work on, what you care about. 2–3 sentences is enough. Short paragraph about yourself — who you are, what you work on, what you care about. 2–3 sentences is enough.
@@ -59,9 +71,18 @@ Short paragraph about yourself — who you are, what you work on, what you care 
 
 ---
 
-**Post-doctoral Fellow** · 
-*2017 – 2019*  
-Aalborg University, Denmark
+**Post-doctoral Fellow** | 2017 – 2019 | Aalborg University, Denmark
+
+<p style="text-align: justify;">
+Short paragraph about yourself — who you are, what you work on, what you care about. 2–3 sentences is enough. Short paragraph about yourself — who you are, what you work on, what you care about. 2–3 sentences is enough.
+</p>
+
+- Go, Kubernetes, PostgreSQL
+- Something else notable
+
+---
+
+**Automotive Engineer** | 2010 – 2012 | Delphi, France
 
 <p style="text-align: justify;">
 Short paragraph about yourself — who you are, what you work on, what you care about. 2–3 sentences is enough. Short paragraph about yourself — who you are, what you work on, what you care about. 2–3 sentences is enough.
@@ -95,11 +116,7 @@ Another project description. What problem does it solve?
 | Databases | PostgreSQL, Redis, MongoDB |
 | Practices | System design, API design, Code review |
 
----
 
-## Education
-
-**B.Sc. Computer Science** — University Name · 2013 – 2017
 
 ---
 
