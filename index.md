@@ -27,7 +27,12 @@ layout: default
 ## Summary
 
 <p style="text-align: justify;">
-Short paragraph about yourself — who you are, what you work on, what you care about. 2–3 sentences is enough. Short paragraph about yourself — who you are, what you work on, what you care about. 2–3 sentences is enough. Short paragraph about yourself — who you are, what you work on, what you care about. 2–3 sentences is enough. 
+Dinh-Son is a robotic enthusiast that enjoys designing, controlling, and working with serial arm robot (JACO), parallel robots, cable-driven mechanisms, and exoskeletons, with a focus on physical human-robot interaction (pHRI). 
+He holds three engineering degrees (engineering, master, and PhD) from three different countries (France, United Kingdom, and Canada). He is passionate about foreign cultures and social interaction with people and their different mindsets. 
+His postdoctoral fellowship focused on the design and control of exoskeletons for home use, performed in Aalborg University, Denmark. 
+Dinh-Son has taught three years as an Assistant Professor in AUM, Kuwait in Mechatronics and he is continuing his career in RMIT, Vietnam as a Lecturer in Robotics and Mechatronics department.
+
+
 </p>
 
 ---
@@ -58,7 +63,6 @@ Short paragraph about yourself — who you are, what you work on, what you care 
 - Technology or tool you used
 - Another key skill or achievement
 
----
 
 **Assistant Professor** | 2019 – 2022 | American University of the Middle East (AUM), Kuwait
 
@@ -69,7 +73,6 @@ Short paragraph about yourself — who you are, what you work on, what you care 
 - Go, Kubernetes, PostgreSQL
 - Something else notable
 
----
 
 **Post-doctoral Fellow** | 2017 – 2019 | Aalborg University, Denmark
 
@@ -80,7 +83,6 @@ Short paragraph about yourself — who you are, what you work on, what you care 
 - Go, Kubernetes, PostgreSQL
 - Something else notable
 
----
 
 **Automotive Engineer** | 2010 – 2012 | Delphi, France
 
@@ -90,6 +92,20 @@ Short paragraph about yourself — who you are, what you work on, what you care 
 
 - Go, Kubernetes, PostgreSQL
 - Something else notable
+
+---
+
+## Grants
+
+**Vietnam Research Grant 2025** · [GitHub](#)  
+What this project does and why you built it. One or two sentences.  
+*Go · Kubernetes · gRPC*
+
+
+
+**Project Beta** · [Live](#)  
+Another project description. What problem does it solve?  
+*Python · Machine Learning*
 
 ---
 
