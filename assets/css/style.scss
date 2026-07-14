@@ -10,7 +10,8 @@
   border-bottom: none;
 }
 
-.container-lg {
-  max-width: 300px !important;
-  margin: 0 auto;
+@media (min-width: 768px) {
+  .container-lg {
+    max-width: 800px !important;
+  }
 }
