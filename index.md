@@ -18,7 +18,7 @@ layout: default
     </p>
   </div>
   <div style="flex-shrink:0; margin-left:1.5rem;">
-    <img src="figures/profile.jpg" alt="Vu Dinh Son" width="150" style="border-radius:50%;">
+    <img src="Figures/Profile.jpg" alt="Vu Dinh Son" width="150" style="border-radius:50%;">
   </div>
 </div>
 
