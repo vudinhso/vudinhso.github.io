@@ -85,13 +85,12 @@ Simulink expert: design of the ECU control strategy relative to the customer’s
 
 **NAWA PROM 2026** | **$2700**  
 
-[AGH Krakow, Department of Robotics and Mechatronics](https://krim.agh.edu.pl/en/)
+[AGH Krakow, Department of Robotics and Mechatronics](https://krim.agh.edu.pl/en/)  
 Adoption of ROS 2 in classroom: from prototyping to fleet of autonomous ground robots
 
 **Industry Seed Fund 2025** | **$50000**  
 
-Byron Anthony Mason, Minh Quang Tran, with the  
-[company Orlar](https://esg.orlar.com/)
+Byron Anthony Mason, Minh Quang Tran, with the [company Orlar](https://esg.orlar.com/)  
 Plant Stress Monitoring and Mitigation for Sustainable Indoor Agriculture in Vietnam  
 
 **Vietnam Research Grant 2025** | **$7600**  
@@ -115,23 +114,21 @@ Gendered Task Division in Group Work
 
 **Capstone Project 2026**   
 Jereon Roomer, with the company 
-[The Fruit Republic](https://thefruitrepublic.com/)
-[Hyves Tech](https://hyves.tech/)
+[The Fruit Republic](https://thefruitrepublic.com/) and
+[Hyves Tech](https://hyves.tech/)  
 Smart Field Robot for Lime Farming in Bến Lức (Long An).  
 Weed, Pest and Spray Decision Support in Canal-Based Orchards: Design of the Digital Twin  
 
 
 **Capstone Project 2025**   
-Lyndal Hugo, Leo Monnier, with the  
-[company Orlar](https://esg.orlar.com/)
+Lyndal Hugo, Leo Monnier, with the [company Orlar](https://esg.orlar.com/)  
 Automated Wedges Collection and Plant Disease Detection System 
 
 **Capstone Project 2024**   
 Building a Drone from the ground up 
 
 **Capstone Project 2023**   
-Truong Dinh Thai, with the  
-[company ABB](https://www.abb.com/)
+Truong Dinh Thai, with the [company ABB](https://www.abb.com/)  
 Pick and Place Application with ABB IRB 920T robot
 
 **Highschool Robotic Workshops 2022 – 2026**   
