@@ -191,9 +191,9 @@ Dinh-Son Vu, Barnett, E., Zaccarin, AM., Gosselin, C. (2018). On the Design of a
 Dinh-Son Vu, J. Kövecses and C. Gosselin, "Trajectory planning and control of a belt-driven locomotion interface for flat terrain walking and stair climbing," 2017 IEEE World Haptics Conference (WHC), Munich, Germany, 2017, pp. 189-194, doi: 10.1109/WHC.2017.7989899
 </p>
 
-<p style="text-align: justify;">
+
 Dinh-Son Vu, S. Foucault, C. Gosselin and J. Kövecses, "Design of a locomotion interface for gait simulation based on belt-driven parallel mechanisms," 2015 IEEE International Conference on Robotics and Automation (ICRA), Seattle, WA, USA, 2015, pp. 1581-1586, doi: 10.1109/ICRA.2015.7139399
-</p>
+
 
 
 
