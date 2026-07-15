@@ -67,7 +67,7 @@ Preparation and moderation for several courses including Mechatronics, Dynamics,
 
 <a href="https://www.exo-aider.dk/">Project Exo-Aider</a>, Denmark: Development of assistive exoskeletons for wheelchair users and elderly people. Intuitive human robot interaction with collaboration with therapist for
 the control of a robotic arm mounted on a wheelchair. Mechatronic team manager: deliverable preparation, tasks assignment, and product development based on an Agile management. Teaching assistant of industrial robotic projects with Problem-based Learning (PBL).  
-[Project Exo-Aider]{https://www.exo-aider.dk/}
+[Project Exo-Aider](https://www.exo-aider.dk/)
 
 **PhD Candidate** | **2012 – 2017** | **Laval University, Canada**
 
