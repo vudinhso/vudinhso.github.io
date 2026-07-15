@@ -64,8 +64,10 @@ Preparation and moderation for several courses including Mechatronics, Dynamics,
 
 **Post-doctoral Fellow** | **2017 – 2019** | **Aalborg University, Denmark**
 
-<a href="https://www.exo-aider.dk/">Project Exo-Aider</a> Project Exo-Aider, Denmark: Development of assistive exoskeletons for wheelchair users and elderly people. Intuitive human robot interaction with collaboration with therapist for
-the control of a robotic arm mounted on a wheelchair. Mechatronic team manager: deliverable preparation, tasks assignment, and product development based on an Agile management. Teaching assistant of industrial robotic projects with Problem-based Learning (PBL). 
+
+<a href="https://www.exo-aider.dk/">Project Exo-Aider</a>, Denmark: Development of assistive exoskeletons for wheelchair users and elderly people. Intuitive human robot interaction with collaboration with therapist for
+the control of a robotic arm mounted on a wheelchair. Mechatronic team manager: deliverable preparation, tasks assignment, and product development based on an Agile management. Teaching assistant of industrial robotic projects with Problem-based Learning (PBL).  
+[Project Exo-Aider]{https://www.exo-aider.dk/}
 
 **PhD Candidate** | **2012 – 2017** | **Laval University, Canada**
 
@@ -142,6 +144,8 @@ Design and control of Robotic Swarm
 SOLIDWORKS | Additive Manufacturing Associate | 2025
 University of Alberta | Fundamentals of Reinforcement Learning | 2020
 deeplearning.ai | Deep Learning | 2020
+
+---
 
 ## Research
 
