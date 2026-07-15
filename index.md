@@ -26,14 +26,10 @@ layout: default
 ---
 ## Summary
 
-<p style="text-align: justify;">
 Dinh-Son is a robotic enthusiast that enjoys designing, controlling, and working with serial arm robot (JACO), parallel robots, cable-driven mechanisms, and exoskeletons, with a focus on physical human-robot interaction (pHRI). 
 He holds three engineering degrees (engineering, master, and PhD) from three different countries (France, United Kingdom, and Canada). He is passionate about foreign cultures and social interaction with people and their different mindsets. 
 His postdoctoral fellowship focused on the design and control of exoskeletons for home use, performed in Aalborg University, Denmark. 
 Dinh-Son has taught three years as an Assistant Professor in AUM, Kuwait in Mechatronics and he is continuing his career in RMIT, Vietnam as a Lecturer in Robotics and Mechatronics department.
-
-
-</p>
 
 ---
 
@@ -56,39 +52,29 @@ Dinh-Son has taught three years as an Assistant Professor in AUM, Kuwait in Mech
 
 **Lecturer** | **2022 – Present** | **RMIT Vietnam**
 
-<p style="text-align: justify;">
 Drive engineering design coursework utilizing ROS2 and facilitate practical, industry-standard programming with collaborative ABB GoFa robots.
 Embedded systems and control theory, physical implementation of PID controllers for encoder-equipped DC motors.
-</p>
 - Course: Engineering Mechanics, Control Systems, Engineering Design
 - Skill: MATLAB, ROS2, VSCode, Ubuntu
 
 **Assistant Professor** | **2019 – 2022** | **American University of the Middle East (AUM), Kuwait**
 
-<p style="text-align: justify;">
 Preparation and moderation for several courses including Mechatronics, Dynamics, Statics, and Measurement Systems. Laboratory improvement for the Mechatronics course: PLC, 3-DOFs robot, microcontroller, and basic electronics implementation. Workshop organization: initiation to machine learning, and to robotic kinematics based on screw theory. 
-</p>
 
 
 **Post-doctoral Fellow** | **2017 – 2019** | **Aalborg University, Denmark**
 
-<p style="text-align: justify;">
 <a href="https://www.exo-aider.dk/">Project Exo-Aider</a> Project Exo-Aider, Denmark: Development of assistive exoskeletons for wheelchair users and elderly people. Intuitive human robot interaction with collaboration with therapist for
 the control of a robotic arm mounted on a wheelchair. Mechatronic team manager: deliverable preparation, tasks assignment, and product development based on an Agile management. Teaching assistant of industrial robotic projects with Problem-based Learning (PBL). 
-</p>
 
 **PhD Candidate** | **2012 – 2017** | **Laval University, Canada**
 
-<p style="text-align: justify;">
 Design and manufacturing of the locomotion interface, simulation of a virtual environment, stability analysis of the mechanism. Haptic and physical human-robot interaction: force and position control of the interface in the virtual environment. JACO Robotic Arm user: design of an intuitive control to facilitate the use of the device. 
-</p>
 
 
 **Automotive Engineer** | **2010 – 2012** | **Delphi, France**
 
-<p style="text-align: justify;">
 Simulink expert: design of the ECU control strategy relative to the customer’s specification. Validation of the ECU with unit testing and on car prototypes. Respect of the 5S workplace organization method
-</p>
 
 
 ---
@@ -159,21 +145,13 @@ deeplearning.ai | Deep Learning | 2020
 
 ## Research
 
-<p style="text-align: justify;">
 T. Trang, H. V. Pham, S. Dinh-Son Vu, T. M. Le, H. M. Tran and S. V. T. Dao, "TrashVLM: Lightweight and Efficiently Fine-Tuned Vision-Language Models for Waste Classification," 2025 International Conference on Advanced Technologies for Communications (ATC), Hanoi, Vietnam, 2025, pp. 1-7, doi: 10.1109/ATC67618.2025.11268574.
-</p>
 
-<p style="text-align: justify;">
 Dinh-Son Vu, M. -T. Vo, A. N. Le Quoc, K. H. Nguyen and T. Q. Tran, "On the Design and Performance of Delta Robot Platform with Compliant Revolute Joint," 2024 13th International Conference on Control, Automation and Information Sciences (ICCAIS), Ho Chi Minh City, Vietnam, 2024, pp. 1-6, doi: 10.1109/ICCAIS63750.2024.10814546. 
-</p>
 
-<p style="text-align: justify;">
 Campeau-Lecours, A., Dinh-Son Vu, Schweitzer, F., and Roy, J. (April 8, 2020). "Alternative Representation of the Shoulder Orientation Based on the Tilt-and-Torsion Angles." ASME. J Biomech Eng. July 2020; 142(7): 074504
-</p>
 
-<p style="text-align: justify;">
 Dinh-Son Vu, Barnett, E., and Gosselin, C. (February 27, 2019). "Experimental Validation of a Three-Degree-of-Freedom Cable-Suspended Parallel Robot for Spatial Translation With Constant Orientation." ASME. J. Mechanisms Robotics. April 2019; 11(2): 024502.
-</p>
 
 A. Campeau-Lecours, U. Côté-Allard, Dinh-Son Vu, F. Routhier, B. Gosselin and C. Gosselin, "Intuitive Adaptive Orientation Control for Enhanced Human–Robot Interaction," in IEEE Transactions on Robotics, vol. 35, no. 2, pp. 509-520, April 2019, doi: 10.1109/TRO.2018.2885464.
 
