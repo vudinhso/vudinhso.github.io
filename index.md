@@ -125,7 +125,8 @@ Lyndal Hugo, Leo Monnier, with the [company Orlar](https://esg.orlar.com/)
 Automated Wedges Collection and Plant Disease Detection System 
 
 **Capstone Project 2024**   
-Building a Drone from the ground up 
+[RMIT Vietnam Capstone Project](https://www.rmit.edu.vn/about-us/schools-and-centres/school-of-science-engineering-and-technology/student-projects/unmanned-aerial-vehical-system-design-and-development)  
+Unmanned aerial vehicle system and development   
 
 **Capstone Project 2023**   
 Truong Dinh Thai, with the [company ABB](https://www.abb.com/)  
