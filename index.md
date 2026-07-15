@@ -65,9 +65,9 @@ Preparation and moderation for several courses including Mechatronics, Dynamics,
 **Post-doctoral Fellow** | **2017 – 2019** | **Aalborg University, Denmark**
 
 
-<a href="https://www.exo-aider.dk/">Project Exo-Aider</a>, Denmark: Development of assistive exoskeletons for wheelchair users and elderly people. Intuitive human robot interaction with collaboration with therapist for
+[Project Exo-Aider](https://www.exo-aider.dk/), Denmark: Development of assistive exoskeletons for wheelchair users and elderly people. Intuitive human robot interaction with collaboration with therapist for
 the control of a robotic arm mounted on a wheelchair. Mechatronic team manager: deliverable preparation, tasks assignment, and product development based on an Agile management. Teaching assistant of industrial robotic projects with Problem-based Learning (PBL).  
-[Project Exo-Aider](https://www.exo-aider.dk/)
+
 
 **PhD Candidate** | **2012 – 2017** | **Laval University, Canada**
 
@@ -85,13 +85,13 @@ Simulink expert: design of the ECU control strategy relative to the customer’s
 
 **NAWA PROM 2026** | **$2700**  
 
-<a href="https://krim.agh.edu.pl/en/">AGH Krakow, Department of Robotics and Mechatronics</a>  
+[AGH Krakow, Department of Robotics and Mechatronics](https://krim.agh.edu.pl/en/)
 Adoption of ROS 2 in classroom: from prototyping to fleet of autonomous ground robots
 
 **Industry Seed Fund 2025** | **$50000**  
 
-Byron Anthony Mason, Minh Quang Tran, with the company 
-<a href="https://esg.orlar.com/">Orlar</a>  
+Byron Anthony Mason, Minh Quang Tran, with the  
+[company Orlar](https://esg.orlar.com/)
 Plant Stress Monitoring and Mitigation for Sustainable Indoor Agriculture in Vietnam  
 
 **Vietnam Research Grant 2025** | **$7600**  
@@ -115,23 +115,23 @@ Gendered Task Division in Group Work
 
 **Capstone Project 2026**   
 Jereon Roomer, with the company 
-<a href="https://thefruitrepublic.com/">The Fruit Republic</a> and
-<a href="https://hyves.tech/">Hyves Tech</a>  
+[The Fruit Republic](https://thefruitrepublic.com/)
+[Hyves Tech](https://hyves.tech/)
 Smart Field Robot for Lime Farming in Bến Lức (Long An).  
 Weed, Pest and Spray Decision Support in Canal-Based Orchards: Design of the Digital Twin  
 
 
 **Capstone Project 2025**   
-Lyndal Hugo, Leo Monnier, with the company 
-<a href="https://esg.orlar.com/">Orlar</a>  
+Lyndal Hugo, Leo Monnier, with the  
+[company Orlar](https://esg.orlar.com/)
 Automated Wedges Collection and Plant Disease Detection System 
 
 **Capstone Project 2024**   
 Building a Drone from the ground up 
 
 **Capstone Project 2023**   
-Truong Dinh Thai, with the company 
-<a href="https://www.abb.com/">ABB</a>  
+Truong Dinh Thai, with the  
+[company ABB](https://www.abb.com/)
 Pick and Place Application with ABB IRB 920T robot
 
 **Highschool Robotic Workshops 2022 – 2026**   
