@@ -78,36 +78,6 @@ Design and manufacturing of the locomotion interface, simulation of a virtual en
 
 Simulink expert: design of the ECU control strategy relative to the customer’s specification. Validation of the ECU with unit testing and on car prototypes. Respect of the 5S workplace organization method
 
-
----
-
-## Grants
-
-**NAWA PROM 2026** | **$2700**  
-
-[AGH Krakow, Department of Robotics and Mechatronics](https://krim.agh.edu.pl/en/)  
-Adoption of ROS 2 in classroom: from prototyping to fleet of autonomous ground robots
-
-**Industry Seed Fund 2025** | **$50000**  
-
-Byron Anthony Mason, Minh Quang Tran, with the [company Orlar](https://esg.orlar.com/)  
-Plant Stress Monitoring and Mitigation for Sustainable Indoor Agriculture in Vietnam  
-
-**Vietnam Research Grant 2025** | **$7600**  
-
-Byron Anthony Mason, Minh Quang Tran  
-Engineering a Sustainable Mobility Solution through AI-Optimized Electric Vehicle Integration and Big Data Analytics for Reduced Air Pollution in Vietnam
-
-**Vietnam Research Grant 2025** | **$7600**  
-
-Hung Pham Viet  
-Integrating Language Processing for Waste Sorting Robot Control
-
-**Scholarship of Teaching and Learning 2025** | **$3000**  
-
-Thu Hyunh, Jeff Nijsse, Katrina Phillips  
-Gendered Task Division in Group Work
-
 ---
 
 ## Projects
@@ -142,6 +112,35 @@ Design and control of Robotic Swarm
 SOLIDWORKS | Additive Manufacturing Associate | 2025
 University of Alberta | Fundamentals of Reinforcement Learning | 2020
 deeplearning.ai | Deep Learning | 2020
+
+---
+
+## Grants
+
+**NAWA PROM 2026** | **$2700**  
+
+[AGH Krakow, Department of Robotics and Mechatronics](https://krim.agh.edu.pl/en/)  
+Adoption of ROS 2 in classroom: from prototyping to fleet of autonomous ground robots
+
+**Industry Seed Fund 2025** | **$50000**  
+
+Byron Anthony Mason, Minh Quang Tran, with the [company Orlar](https://esg.orlar.com/)  
+Plant Stress Monitoring and Mitigation for Sustainable Indoor Agriculture in Vietnam  
+
+**Vietnam Research Grant 2025** | **$7600**  
+
+Byron Anthony Mason, Minh Quang Tran  
+Engineering a Sustainable Mobility Solution through AI-Optimized Electric Vehicle Integration and Big Data Analytics for Reduced Air Pollution in Vietnam
+
+**Vietnam Research Grant 2025** | **$7600**  
+
+Hung Pham Viet  
+Integrating Language Processing for Waste Sorting Robot Control
+
+**Scholarship of Teaching and Learning 2025** | **$3000**  
+
+Thu Hyunh, Jeff Nijsse, Katrina Phillips  
+Gendered Task Division in Group Work
 
 ---
 
