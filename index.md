@@ -6,11 +6,11 @@ layout: default
   <div>
     <!-- <h1 style="margin-bottom:0.25rem;">Dinh-Son Vu</h1> -->
     <p style="margin:0;">
-        Lecturer<br>
-        Robotics and Mechatronics Program<br>
+        Lecturer, Robotics and Mechatronics Program<br>
         School of Science, Engineering, and Technology<br>
         RMIT Vietnam, Ho Chi Minh City<br>
         Email: <a href="mailto:dinh-son.vu@rmit.edu.vn">dinh-son.vu@rmit.edu.vn</a><br>
+        <a href="https://vudinhso.github.io/">Online Resume</a><br>
         <a href="https://github.com/vudinhso">GitHub</a> · 
         <a href="https://www.linkedin.com/in/dinh-son-vu/">LinkedIn</a> · 
         <a href="https://scholar.google.com/citations?user=fKtqrDkAAAAJ&hl=en&oi=ao">Scholar</a> · 
