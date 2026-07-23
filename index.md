@@ -32,7 +32,6 @@ His postdoctoral fellowship focused on the design and control of exoskeletons fo
 Dinh-Son has taught three years as an Assistant Professor in AUM, Kuwait in Mechatronics and he is continuing his career in RMIT, Vietnam as a Lecturer in Robotics and Mechatronics department.
 
 ---
-
 ## Education
 
 **Doctor of Philosophy (PhD), Robotics — Laval University, Canada · 2017**  
@@ -59,11 +58,9 @@ Embedded systems and control theory, physical implementation of PID controllers 
 
 **Assistant Professor** | **2019 – 2022** | **American University of the Middle East (AUM), Kuwait**
 
-Preparation and moderation for several courses including Mechatronics, Dynamics, Statics, and Measurement Systems. Laboratory improvement for the Mechatronics course: PLC, 3-DOFs robot, microcontroller, and basic electronics implementation. Workshop organization: initiation to machine learning, and to robotic kinematics based on screw theory. 
-
+Preparation and moderation for courses including Mechatronics, Dynamics, Statics, and Measurement Systems. Laboratory improvement for the Mechatronics course: PLC, 3-DOFs robot, microcontroller, and basic electronics implementation. Workshop organization: initiation to machine learning, and to robotic kinematics based on screw theory. 
 
 **Post-doctoral Fellow** | **2017 – 2019** | **Aalborg University, Denmark**
-
 
 [Project Exo-Aider](https://www.exo-aider.dk/), Denmark: Development of assistive exoskeletons for wheelchair users and elderly people. Intuitive human robot interaction with collaboration with therapist for
 the control of a robotic arm mounted on a wheelchair. Mechatronic team manager: deliverable preparation, tasks assignment, and product development based on an Agile management. Teaching assistant of industrial robotic projects with Problem-based Learning (PBL).  
@@ -73,14 +70,17 @@ the control of a robotic arm mounted on a wheelchair. Mechatronic team manager: 
 
 Design and manufacturing of the locomotion interface, simulation of a virtual environment, stability analysis of the mechanism. Haptic and physical human-robot interaction: force and position control of the interface in the virtual environment. JACO Robotic Arm user: design of an intuitive control to facilitate the use of the device. 
 
-
 **Automotive Engineer** | **2010 – 2012** | **Delphi, France**
 
-Simulink expert: design of the ECU control strategy relative to the customer’s specification. Validation of the ECU with unit testing and on car prototypes. Respect of the 5S workplace organization method
+Simulink expert: design of the ECU control strategy relative to the customer’s specification. Validation of the ECU with unit testing and on car prototypes. Respect of the 5S workplace organization method. 
 
 ---
-
 ## Projects
+
+**Aalto University - Design Factory - Product Development Project 2026**
+[Aalto University, ](https://designfactory.aalto.fi/)  
+- Participation at Aalto Design Factory Workshop
+- Coordinator for RMIT students participating to PDP 2027 at Aalto University Design Factory. 
 
 **Capstone Project 2026**   
 Jereon Roomer, with the company 
@@ -88,7 +88,6 @@ Jereon Roomer, with the company
 [Hyves Tech](https://hyves.tech/)  
 Smart Field Robot for Lime Farming in Bến Lức (Long An).  
 Weed, Pest and Spray Decision Support in Canal-Based Orchards: Design of the Digital Twin  
-
 
 **Capstone Project 2025**   
 Lyndal Hugo, Leo Monnier, with the [company Orlar](https://esg.orlar.com/)  
@@ -106,7 +105,6 @@ Pick and Place Application with ABB IRB 920T robot
 Design and control of Robotic Swarm
 
 ---
-
 ## Certification
 
 SOLIDWORKS | Additive Manufacturing Associate | 2025
@@ -116,6 +114,21 @@ deeplearning.ai | Deep Learning | 2020
 ---
 
 ## Grants
+
+**Vietnam Research Grant 2027 - Tier 2** | **$19000**  
+
+Minh Quang Tran, Son Nguyen, Byron Anthony Mason
+Port Call Intelligence for Ho Chi Minh City's Port Cluster: Data-driven Decision-making Support with Vessel Arrival Prediction. 
+
+**Vietnam Research Grant 2027 - Tier 2** | **$19000**  
+
+Hai Dao, Ngoc, Dao, Thanh Pham
+Developing Efficient Drone-Based Nitrogen Management Solutions to Support Low-Emission Rice Production in the Mekong Delta. 
+
+**Erasmus Plus KA171 2026** | **$4600**  
+
+[Aalto University, ](https://www.aalto.fi/en/)  
+Workshop-Summer school at Aalto University: adaption of ROS2: from prototyping to autonomous ground vehicle. 
 
 **NAWA PROM 2026** | **$2700**  
 
@@ -127,12 +140,12 @@ Adoption of ROS 2 in classroom: from prototyping to fleet of autonomous ground r
 Byron Anthony Mason, Minh Quang Tran, with the [company Orlar](https://esg.orlar.com/)  
 Plant Stress Monitoring and Mitigation for Sustainable Indoor Agriculture in Vietnam  
 
-**Vietnam Research Grant 2025** | **$7600**  
+**Vietnam Research Grant 2025 - Tier 1** | **$7600**  
 
 Byron Anthony Mason, Minh Quang Tran  
 Engineering a Sustainable Mobility Solution through AI-Optimized Electric Vehicle Integration and Big Data Analytics for Reduced Air Pollution in Vietnam
 
-**Vietnam Research Grant 2025** | **$7600**  
+**Vietnam Research Grant 2025 - Tier 1** | **$7600**  
 
 Hung Pham Viet  
 Integrating Language Processing for Waste Sorting Robot Control
