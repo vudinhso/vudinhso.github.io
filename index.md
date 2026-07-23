@@ -117,12 +117,12 @@ deeplearning.ai | Deep Learning | 2020
 
 **Vietnam Research Grant 2027 - Tier 2** | **$19000**  
 
-Minh Quang Tran, Son Nguyen, Byron Anthony Mason
+Minh Quang Tran, Son Nguyen, Byron Anthony Mason  
 Port Call Intelligence for Ho Chi Minh City's Port Cluster: Data-driven Decision-making Support with Vessel Arrival Prediction. 
 
 **Vietnam Research Grant 2027 - Tier 2** | **$19000**  
 
-Hai Dao, Ngoc, Dao, Thanh Pham
+Hai Dao, Ngoc, Dao, Thanh Pham  
 Developing Efficient Drone-Based Nitrogen Management Solutions to Support Low-Emission Rice Production in the Mekong Delta. 
 
 **Erasmus Plus KA171 2026** | **$4600**  
