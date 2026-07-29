@@ -23,14 +23,14 @@ repository               : "https://github.com/vudinhso/vudinhso.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  avatar           : "profile.jpg"
+  name             : "Dinh-Son Vu"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Dedicated Robotics and Mechatronics Lecturer at RMIT Vietnam with a robust international academic and research background. Holding a PhD in Rehabilitation Robotics, my expertise includes postdoctoral research on exoskeletons for the elderly at Aalborg University, Denmark, and an Assistant Professorship in Kuwait specializing in mechatronics and parallel mechanisms. I am currently driving multidisciplinary innovation by leading advanced projects at the intersection of robotics, IoT, and smart agriculture."
+  location         : "Ho Chi Minh City, Vietnam"
+  employer         : "RMIT University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "dinh-son.vu@rmit.edu.vn" 
 
   # Academic websites
   academia         : # URL
