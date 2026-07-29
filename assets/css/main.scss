@@ -37,3 +37,25 @@
     "layout/sidebar",
     "layout/json_cv"
 ;
+
+/* Fully justify paragraph text in the main content area */
+.page__content p,
+.page__content li {
+  text-align: justify;
+}
+
+/* Custom Print Styles for a Clean CV */
+@media print {
+  /* Hides the 'Follow' button and social links dropdown */
+  .author__urls-wrapper {
+    display: none !important;
+  }
+  /* Hides the website footer */
+  .page__footer {
+    display: none !important;
+  }
+  /* Optional: Hides the top navigation bar */
+  .masthead {
+    display: none !important;
+  }
+}
