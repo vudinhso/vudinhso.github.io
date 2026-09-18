@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% include pub_list.md %}
+{% include list_publication.md %}
 
 <!-- T. Trang, H. V. Pham, S. Dinh-Son Vu, T. M. Le, H. M. Tran and S. V. T. Dao, "TrashVLM: Lightweight and Efficiently Fine-Tuned Vision-Language Models for Waste Classification," 2025 International Conference on Advanced Technologies for Communications (ATC), Hanoi, Vietnam, 2025, pp. 1-7, doi: 10.1109/ATC67618.2025.11268574.
 
