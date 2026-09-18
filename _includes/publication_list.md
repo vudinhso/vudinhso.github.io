@@ -1,13 +1,4 @@
----
-layout: archive
-title: "Publications"
-permalink: /publications/
-author_profile: true
----
-
-{% include pub_list.md %}
-
-<!-- T. Trang, H. V. Pham, S. Dinh-Son Vu, T. M. Le, H. M. Tran and S. V. T. Dao, "TrashVLM: Lightweight and Efficiently Fine-Tuned Vision-Language Models for Waste Classification," 2025 International Conference on Advanced Technologies for Communications (ATC), Hanoi, Vietnam, 2025, pp. 1-7, doi: 10.1109/ATC67618.2025.11268574.
+T. Trang, H. V. Pham, S. Dinh-Son Vu, T. M. Le, H. M. Tran and S. V. T. Dao, "TrashVLM: Lightweight and Efficiently Fine-Tuned Vision-Language Models for Waste Classification," 2025 International Conference on Advanced Technologies for Communications (ATC), Hanoi, Vietnam, 2025, pp. 1-7, doi: 10.1109/ATC67618.2025.11268574.
 
 Dinh-Son Vu, M. -T. Vo, A. N. Le Quoc, K. H. Nguyen and T. Q. Tran, "On the Design and Performance of Delta Robot Platform with Compliant Revolute Joint," 2024 13th International Conference on Control, Automation and Information Sciences (ICCAIS), Ho Chi Minh City, Vietnam, 2024, pp. 1-6, doi: 10.1109/ICCAIS63750.2024.10814546. 
 
@@ -24,36 +15,4 @@ Dinh-Son Vu, Barnett, E., Zaccarin, AM., Gosselin, C. (2018). On the Design of a
 Dinh-Son Vu, J. Kövecses and C. Gosselin, "Trajectory planning and control of a belt-driven locomotion interface for flat terrain walking and stair climbing," 2017 IEEE World Haptics Conference (WHC), Munich, Germany, 2017, pp. 189-194, doi: 10.1109/WHC.2017.7989899
 
 
-Dinh-Son Vu, S. Foucault, C. Gosselin and J. Kövecses, "Design of a locomotion interface for gait simulation based on belt-driven parallel mechanisms," 2015 IEEE International Conference on Robotics and Automation (ICRA), Seattle, WA, USA, 2015, pp. 1581-1586, doi: 10.1109/ICRA.2015.7139399 -->
-
-
-
-<!-- {% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %} -->
-
-<!-- {% include base_path %} -->
-
-<!-- New style rendering if publication categories are defined -->
-<!-- {% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %} -->
-
-
-
+Dinh-Son Vu, S. Foucault, C. Gosselin and J. Kövecses, "Design of a locomotion interface for gait simulation based on belt-driven parallel mechanisms," 2015 IEEE International Conference on Robotics and Automation (ICRA), Seattle, WA, USA, 2015, pp. 1581-1586, doi: 10.1109/ICRA.2015.7139399
