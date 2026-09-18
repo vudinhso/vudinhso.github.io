@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Grants
-permalink: /grants/
+title: Grant
+permalink: /grant/
 ---
 
 {% include list_grant.md %}
