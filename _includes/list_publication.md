@@ -4,6 +4,8 @@ T. Trang, H. V. Pham, S. Dinh-Son Vu, T. M. Le, H. M. Tran and S. V. T. Dao, "Tr
 
 Dinh-Son Vu, M. -T. Vo, A. N. Le Quoc, K. H. Nguyen and T. Q. Tran, "On the Design and Performance of Delta Robot Platform with Compliant Revolute Joint," 2024 13th International Conference on Control, Automation and Information Sciences (ICCAIS), Ho Chi Minh City, Vietnam, 2024, pp. 1-6, doi: 10.1109/ICCAIS63750.2024.10814546. 
 
+Dinh-Son Vu, Ahmad Alsmadi. Trajectory Planning of a CableBased Parallel Robot using Reinforcement Learning and Soft Actor-Critic. WSEAS Transactions on Applied and Theoretical Mechanics. 2020;15:165-172. 10.37394/232011.2020.15.19
+
 Campeau-Lecours, A., Dinh-Son Vu, Schweitzer, F., and Roy, J. (April 8, 2020). "Alternative Representation of the Shoulder Orientation Based on the Tilt-and-Torsion Angles." ASME. J Biomech Eng. July 2020; 142(7): 074504
 
 Dinh-Son Vu, Barnett, E., and Gosselin, C. (February 27, 2019). "Experimental Validation of a Three-Degree-of-Freedom Cable-Suspended Parallel Robot for Spatial Translation With Constant Orientation." ASME. J. Mechanisms Robotics. April 2019; 11(2): 024502.
