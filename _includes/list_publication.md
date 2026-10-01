@@ -1,3 +1,5 @@
+Duong, K., Tran, T., Tran, M. et al. A Situational Awareness-Driven Human-Machine Interface Framework for Enhancing Operators’ Performance in Agricultural Robotic Teleoperation. J Intell Robot Syst (2026). https://doi.org/10.1007/s10846-026-02469-8
+
 T. Trang, H. V. Pham, S. Dinh-Son Vu, T. M. Le, H. M. Tran and S. V. T. Dao, "TrashVLM: Lightweight and Efficiently Fine-Tuned Vision-Language Models for Waste Classification," 2025 International Conference on Advanced Technologies for Communications (ATC), Hanoi, Vietnam, 2025, pp. 1-7, doi: 10.1109/ATC67618.2025.11268574.
 
 Dinh-Son Vu, M. -T. Vo, A. N. Le Quoc, K. H. Nguyen and T. Q. Tran, "On the Design and Performance of Delta Robot Platform with Compliant Revolute Joint," 2024 13th International Conference on Control, Automation and Information Sciences (ICCAIS), Ho Chi Minh City, Vietnam, 2024, pp. 1-6, doi: 10.1109/ICCAIS63750.2024.10814546. 
